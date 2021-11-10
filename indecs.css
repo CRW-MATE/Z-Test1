@@ -1,0 +1,95 @@
+
+
+html{
+background: url(https://media.istockphoto.com/photos/abstract-blurred-colorful-gradient-background-in-soft-style-picture-id1251007701?b=1&k=20&m=1251007701&s=170667a&w=0&h=V7NhsRFpcfJ-jGoLvi92ZDmof8TcC9q_xLScQgoa3RQ=) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+a{display:flex;justify-content: center;
+  align-content: center;
+  ;text-align: center;}
+h2{
+	font-family:fantasy;color: white ;
+
+  font-size: 40px;
+  text-align: center;
+	margin: 50px 60px 0px 60px;	
+	padding-right: 20px;padding-left: 20px;
+}
+h2:hover{
+	border: white ;border-style: inset ;
+  border-size:90px 30px 100px 30px ;
+	margin: 25%px 60px 0px 60px;
+	padding-right: 20px;padding-left: 20px;
+	color: rgba(255, 158, 53, 0.83);
+	background-color:white ;
+	 transition: background-color 0.5s ease ;
+;-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+border-radius: 10px; 
+-khtml-border-radius: 10px;}
+
+.neonText {
+  color: #fff;
+  text-shadow:
+      0 0 7px #fff,
+      0 0 10px #fff,
+      0 0 21px #fff,
+      0 0 42px #0fa,
+      0 0 82px #0fa,
+      0 0 92px #0fa,
+      0 0 102px #0fa,
+      0 0 151px #0fa;
+}
+
+/* Additional styling */
+.
+body {
+  font-size: 18px;
+  font-family: "Vibur", sans-serif;
+}  
+
+h1, h2 {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 400;
+}
+  
+h1 {margin-top:1000 px;
+    font-size: 4.2rem;
+}
+body{
+background: url(https://media.istockphoto.com/photos/abstract-blurred-colorful-gradient-background-in-soft-style-picture-id1251007701?b=1&k=20&m=1251007701&s=170667a&w=0&h=V7NhsRFpcfJ-jGoLvi92ZDmof8TcC9q_xLScQgoa3RQ=) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;}
+ .text-neon,a{
+  color: #fff;text-decoration:none;
+ }
+ .text-neon:hover{
+  color: rgba(245, 124, 0, 0.7);text-decoration:none;
+  text-shadow:
+      0 0 7px #fff,
+      0 0 10px #fff,
+      0 0 21px #fff,
+      0 0 42px #ff4,
+      0 0 82px #ff4e00,
+      0 0 92px #ff4e00,
+      0 0 102px #ff4e00,
+      0 0 151px #ff4e00;}
+img {
+  border: 5px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 280px;
+}
+
+img:hover {
+  box-shadow: 0 0 2px 2px rgba(0, 140, 186, 0.5);
+}
+
+.container123{display: inline-flex;
+  justify-content: center;display: flex; justify-content: center}
