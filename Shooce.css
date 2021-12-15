@@ -3,15 +3,33 @@ html{
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;
-
+  background-size: cover;}
+img{float: left;
+  border: 5px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 280px;height: 240px
+}
+img:hover {border: 5px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 280px;height: 240px;box-shadow: 0 0 2px 2px rgba(206, 35, 6, 1);
+}
+h4{float: left;
+  font-size: 2rem;
 }
 a{
 	display: flex; 
 	justify-content:center;
 	align-items: center;
 }
+.cfn{display: inline-flex;justify-self:center;flex-direction: column;
+  background-image:linear-gradient(to top right ,rgba(169, 89, 179, 0.54),darkorange) ;
+  background-size: 360px 360px 360px;
+;padding: 150px 150px 150px 150px;
+border-radius: 60px 60px 60px 10px}
 
+}
 .neonText {
     color: #fff;
     text-shadow:
@@ -50,7 +68,7 @@ h2 {
 }
 
 .container {
-  margin-top: 20vh;
+  margin-top: 2px;
 }
 
 @keyframes pulsate {
@@ -79,5 +97,5 @@ h2 {
     0 0 73px #f09,
     0 0 80px #f09,
     0 0 94px #f09,
-    0 0 140px #f09;}
-
+    0 0 140px #f09;
+  }
