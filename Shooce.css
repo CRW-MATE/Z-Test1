@@ -16,7 +16,7 @@ img:hover {border: 5px solid #ddd;
   width: 280px;height: 240px;box-shadow: 0 0 2px 2px rgba(206, 35, 6, 1);
 }
 h4{float: left;
-  font-size: 2rem;
+  font-size: 2rem;color: white;font-family:sans-serif;
 }
 a{
 	display: flex; 
